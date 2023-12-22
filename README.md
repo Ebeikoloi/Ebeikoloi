@@ -1,7 +1,8 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Ebei Sylvester Koloi
-  
-Passionate Data Engineer/Analyst from Hungary, working on different data pipelines for 2+ years now.
+
+
+### Passionate Data Engineer/Analyst from Hungary, working on different data pipelines for 2+ years now.
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
