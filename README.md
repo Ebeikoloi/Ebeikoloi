@@ -7,14 +7,12 @@
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-
-- I work on Data modeling, Microservices, containers, and everything around it.
+- I work on data modeling, microservices, containers, and everything else.
 - I’m looking to collaborate on **Cloud-native Projects**
 
-
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 #### Programming Language Stack
 
